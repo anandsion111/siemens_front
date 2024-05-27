@@ -1,0 +1,8 @@
+/* IX Styles Import */
+@import '@siemens/ix/dist/siemens-ix/siemens-ix.css';
+
+
+/* Tailwind CSS Import */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
