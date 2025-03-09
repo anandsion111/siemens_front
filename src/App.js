@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <Header />
-      <Routes>
+      <Routes> 
         <Route path="/" element={<AddUsers />} />
         <Route path="/user-table" element={<DispUsers />} />
       </Routes>
